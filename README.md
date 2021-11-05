@@ -26,4 +26,4 @@ https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mob
 
 ## Сылка на проект: 
 
-http://127.0.0.1:5500/index.html
+https://daniil-pavlov-rus.github.io/russian-travel/
